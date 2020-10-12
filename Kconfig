@@ -1,0 +1,6 @@
+config RPI_PWM
+        tristate "GPIO PWM example driver"
+        default m
+        help
+          GPIO driver for pwm test .
+
